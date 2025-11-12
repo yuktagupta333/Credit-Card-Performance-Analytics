@@ -1,9 +1,5 @@
 # Portfolio Projects
 ## Following are my projects in SQL, Python, Tableau & Excel: <br />
-#### *You can take a look at my personal website : [www.priyankajha24.wixsite.com](www.priyankajha24.wixsite.com/aboutme)* <br />
-#### *You can also take a look at my Linkedin : [PriyankaJhaTheAnalyst](https://www.linkedin.com/in/priyankajhatheanalyst/)* <br />
-
-
 
 - [x] **SQL & Tableau** - 
   - Instagram Clone Data Analysis Project<br />
